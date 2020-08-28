@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://static-2.gumroad.com/res/gumroad/1211634803146/asset_previews/f6f7b8b0c8c92e3b299a5d2350b0379f/retina/drawkit-web-dev-colour-thumbnail.png">
+<img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/software-developer-2.png">
 
 
 # Hello world, I'm Brenda :octocat:

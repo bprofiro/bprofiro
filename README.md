@@ -2,13 +2,13 @@
 
 
 ### Hello world, I'm Brenda :octocat:
-
+---
 Full-Stack | Programadora :robot:.
 
 Estudante de Ciência da Computação na UFABC. :woman_technologist:
 
 ### Sobre mim
-
+---
 - 💻 Trabalhando com React e .NET
 - 📚 Estudando a Node, React e React Native
 - 💜 Sempre tentando ajudar outros devs da melhor forma possível

@@ -6,6 +6,7 @@
 Full-Stack | Programadora :robot:.
 
 Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de Software na Rocketseat. :woman_technologist:
+Tenho um blog onde posto conteúdo sobre tecnologia sobre os conceitos que estudo: https://blog-bprofiro.vercel.app/.
 
 ### Sobre mim
 ---

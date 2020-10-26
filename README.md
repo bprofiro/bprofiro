@@ -5,11 +5,11 @@
 ---
 Full-Stack | Programadora :robot:.
 
-Estudante de Ciência da Computação na UFABC. :woman_technologist:
+Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de Software na Rocketseat. :woman_technologist:
 
 ### Sobre mim
 ---
-- 💻 Trabalhando com React e .NET
+- 💻 Trabalhando com React e NodeJS
 - 📚 Estudando a Node, React e React Native
 - 💜 Sempre tentando ajudar outros devs da melhor forma possível
 - 🧒 Mentora do Space Squad na Rocketseat

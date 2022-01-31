@@ -9,7 +9,6 @@ Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de 
 Tenho um blog onde posto conteúdo sobre tecnologia sobre os conceitos que estudo: https://blog-bprofiro.vercel.app/.
 
 ### Sobre mim
----
 - 💻 Trabalhando com React e NodeJS
 - 📚 Estudando a Node, React e React Native
 - 💜 Sempre tentando ajudar outros devs da melhor forma possível

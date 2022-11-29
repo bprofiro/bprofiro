@@ -8,8 +8,8 @@ Full-Stack | Programadora :robot:.
 Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de Software na BhubAI. :woman_technologist:
 
 ### Sobre mim
-- 💻 Trabalhando com React e Django
-- 📚 Estudando a Django e React
+- 💻 Trabalhando com React e Flask
+- 📚 Estudando a Flask e React
 - 💜 Sempre tentando ajudar outros devs da melhor forma possível
 - 🧒 Mentora do Space Squad na Rocketseat
 

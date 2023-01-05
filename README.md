@@ -11,7 +11,6 @@ Estudante de Ciência da Computação na UFABC e trabalhando como Engenheira de 
 - 💻 Trabalhando com React e Flask
 - 📚 Estudando a Flask e React
 - 💜 Sempre tentando ajudar outros devs da melhor forma possível
-- 🧒 Mentora do Space Squad na Rocketseat
 
 ---
 #### Made with 💜 by Brenda
